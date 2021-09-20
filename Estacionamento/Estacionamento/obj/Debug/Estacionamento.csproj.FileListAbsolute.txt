@@ -1,0 +1,26 @@
+C:\Users\viviane.santos3\source\repos\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe.config
+C:\Users\viviane.santos3\source\repos\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe
+C:\Users\viviane.santos3\source\repos\Estacionamento\Estacionamento\bin\Debug\Estacionamento.pdb
+C:\Users\viviane.santos3\source\repos\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csprojAssemblyReference.cache
+C:\Users\viviane.santos3\source\repos\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Entrada.resources
+C:\Users\viviane.santos3\source\repos\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Form1.resources
+C:\Users\viviane.santos3\source\repos\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Properties.Resources.resources
+C:\Users\viviane.santos3\source\repos\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csproj.GenerateResource.cache
+C:\Users\viviane.santos3\source\repos\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\viviane.santos3\source\repos\Estacionamento\Estacionamento\obj\Debug\Estacionamento.exe
+C:\Users\viviane.santos3\source\repos\Estacionamento\Estacionamento\obj\Debug\Estacionamento.pdb
+C:\Users\viviane.santos3\source\repos\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Saida.resources
+C:\Users\viviane.santos3\source\repos\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Alocar.resources
+C:\Users\Viv\Downloads\arrumar exercicios git c#\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe.config
+C:\Users\Viv\Downloads\arrumar exercicios git c#\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe
+C:\Users\Viv\Downloads\arrumar exercicios git c#\Estacionamento\Estacionamento\bin\Debug\Estacionamento.pdb
+C:\Users\Viv\Downloads\arrumar exercicios git c#\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csproj.AssemblyReference.cache
+C:\Users\Viv\Downloads\arrumar exercicios git c#\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Alocar.resources
+C:\Users\Viv\Downloads\arrumar exercicios git c#\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Entrada.resources
+C:\Users\Viv\Downloads\arrumar exercicios git c#\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Form1.resources
+C:\Users\Viv\Downloads\arrumar exercicios git c#\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Properties.Resources.resources
+C:\Users\Viv\Downloads\arrumar exercicios git c#\Estacionamento\Estacionamento\obj\Debug\Estacionamento.Saida.resources
+C:\Users\Viv\Downloads\arrumar exercicios git c#\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csproj.GenerateResource.cache
+C:\Users\Viv\Downloads\arrumar exercicios git c#\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\Viv\Downloads\arrumar exercicios git c#\Estacionamento\Estacionamento\obj\Debug\Estacionamento.exe
+C:\Users\Viv\Downloads\arrumar exercicios git c#\Estacionamento\Estacionamento\obj\Debug\Estacionamento.pdb

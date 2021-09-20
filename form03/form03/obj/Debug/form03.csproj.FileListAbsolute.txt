@@ -1,0 +1,22 @@
+C:\Users\viviane.santos3\source\repos\form03\form03\bin\Debug\form03.exe.config
+C:\Users\viviane.santos3\source\repos\form03\form03\bin\Debug\form03.exe
+C:\Users\viviane.santos3\source\repos\form03\form03\bin\Debug\form03.pdb
+C:\Users\viviane.santos3\source\repos\form03\form03\obj\Debug\form03.csprojAssemblyReference.cache
+C:\Users\viviane.santos3\source\repos\form03\form03\obj\Debug\form03.Exec01.resources
+C:\Users\viviane.santos3\source\repos\form03\form03\obj\Debug\form03.Form1.resources
+C:\Users\viviane.santos3\source\repos\form03\form03\obj\Debug\form03.Properties.Resources.resources
+C:\Users\viviane.santos3\source\repos\form03\form03\obj\Debug\form03.csproj.GenerateResource.cache
+C:\Users\viviane.santos3\source\repos\form03\form03\obj\Debug\form03.csproj.CoreCompileInputs.cache
+C:\Users\viviane.santos3\source\repos\form03\form03\obj\Debug\form03.exe
+C:\Users\viviane.santos3\source\repos\form03\form03\obj\Debug\form03.pdb
+C:\Users\Viv\Downloads\arrumar exercicios git c#\form03\form03\bin\Debug\form03.exe.config
+C:\Users\Viv\Downloads\arrumar exercicios git c#\form03\form03\bin\Debug\form03.exe
+C:\Users\Viv\Downloads\arrumar exercicios git c#\form03\form03\bin\Debug\form03.pdb
+C:\Users\Viv\Downloads\arrumar exercicios git c#\form03\form03\obj\Debug\form03.csproj.AssemblyReference.cache
+C:\Users\Viv\Downloads\arrumar exercicios git c#\form03\form03\obj\Debug\form03.Exec01.resources
+C:\Users\Viv\Downloads\arrumar exercicios git c#\form03\form03\obj\Debug\form03.Form1.resources
+C:\Users\Viv\Downloads\arrumar exercicios git c#\form03\form03\obj\Debug\form03.Properties.Resources.resources
+C:\Users\Viv\Downloads\arrumar exercicios git c#\form03\form03\obj\Debug\form03.csproj.GenerateResource.cache
+C:\Users\Viv\Downloads\arrumar exercicios git c#\form03\form03\obj\Debug\form03.csproj.CoreCompileInputs.cache
+C:\Users\Viv\Downloads\arrumar exercicios git c#\form03\form03\obj\Debug\form03.exe
+C:\Users\Viv\Downloads\arrumar exercicios git c#\form03\form03\obj\Debug\form03.pdb

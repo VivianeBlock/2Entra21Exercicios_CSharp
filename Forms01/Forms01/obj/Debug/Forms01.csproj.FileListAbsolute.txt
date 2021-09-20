@@ -1,0 +1,10 @@
+C:\Users\viviane.santos3\source\repos\Forms01\Forms01\obj\Debug\Forms01.csprojAssemblyReference.cache
+C:\Users\viviane.santos3\source\repos\Forms01\Forms01\obj\Debug\Forms01.Form1.resources
+C:\Users\viviane.santos3\source\repos\Forms01\Forms01\obj\Debug\Forms01.Properties.Resources.resources
+C:\Users\viviane.santos3\source\repos\Forms01\Forms01\obj\Debug\Forms01.csproj.GenerateResource.cache
+C:\Users\viviane.santos3\source\repos\Forms01\Forms01\obj\Debug\Forms01.csproj.CoreCompileInputs.cache
+C:\Users\viviane.santos3\source\repos\Forms01\Forms01\bin\Debug\Forms01.exe.config
+C:\Users\viviane.santos3\source\repos\Forms01\Forms01\bin\Debug\Forms01.exe
+C:\Users\viviane.santos3\source\repos\Forms01\Forms01\bin\Debug\Forms01.pdb
+C:\Users\viviane.santos3\source\repos\Forms01\Forms01\obj\Debug\Forms01.exe
+C:\Users\viviane.santos3\source\repos\Forms01\Forms01\obj\Debug\Forms01.pdb
